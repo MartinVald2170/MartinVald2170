@@ -30,9 +30,47 @@ a {
 }
 .projectheading {
     display: flex;
-    top: 50px
+    top: 50px;
+    
 }
 
+table, th, td {
+    font-family: "Lato", sans-serif;
+  
+  }
+ .table1 {
     
+     position:absolute;
+     top: 200px;
+    
+ }
+ .table1 {
+    border-collapse: collapse;
+  margin: 25px 0;
+  font-size: o.9em;
+  min-width: 480px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
+
+}
+.table1 thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+
+}
+.table1 th,
+.table1 td {
+    padding: 12px 15px;
+}
+.table tbody tr {
+    border-bottom: 1px solid #dddddd'
+}
+.table1 tbody tr:last-of-type
+{
+  border-bottom: 2px solid #009879;
+}
 
 
