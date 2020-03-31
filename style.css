@@ -1,7 +1,8 @@
 body{
-    margin: 0;
-    padding: 0;
-    
+  margin: 0;
+  padding: 0;
+  /* background-color: linear-gradient(130deg,#4677D7,#C8CBF6); */
+  font-family: "Lato", sans-serif;
 }
 .sidenav {
   height: 100%;
@@ -99,7 +100,7 @@ margin: 5px
   font-size: 40px;
   padding: 8px 12px;
   position: absolute;
-  top:0;
+  top:10px;
   right:10;
  
 }
