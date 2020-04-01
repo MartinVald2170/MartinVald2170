@@ -13,7 +13,7 @@ body
     align-items: left;
     min-height: 100vh;
     flex-direction: column;
-    background: white;
+    background: #A3B3EF;
 }
 a {
     position: relative;
