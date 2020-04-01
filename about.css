@@ -13,7 +13,7 @@ body
     align-items: left;
     min-height: 100vh;
     flex-direction: column;
-    background: #A3B3EF;
+    background: rgb(0, 0, 0);
 }
 a {
     position: relative;
@@ -26,7 +26,7 @@ a {
     font-size: 18px;
     letter-spacing:2px;
     border-radius: 40px;
-    background: linear-gradient(90deg,#0162c8,#ff72c0);
+    background: linear-gradient(90deg,#122651,rgb(122, 0, 133));
     border : 3px black ;
     
 }
@@ -38,6 +38,8 @@ a {
 
 table, th, td {
     font-family: "Lato", sans-serif;
+    color: white;
+    text-shadow: black;
   
   }
  .table1 {
@@ -57,7 +59,7 @@ table, th, td {
 
 }
 .table1 thead tr {
-    background-color: #1DA0AD;
+    background-color: rgb(148, 14, 175);
     color: #ffffff;
     text-align: left;
     font-weight: bold;
@@ -67,49 +69,18 @@ table, th, td {
 .table1 th,
 .table1 td {
     padding: 12px 15px;
+    border-color: white;
 }
 .table tbody tr {
-    border-bottom: 1px solid #dddddd'
+    border-bottom: 3px solid #dddddd'
 }
 .table1 tbody tr:last-of-type
 {
   border-bottom: 2px solid #009879;
 }
 
-.table2 {
-    
-    position:absolute;
-    top: 370px;
-   
-}
-.table2 {
-   border-collapse: collapse;
- margin: 25px 0;
- font-size: o.9em;
- min-width: 480px;
- border-radius: 5px 5px 0 0;
- overflow: hidden;
- box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
 
-}
-.table2 thead tr {
-   background-color: #3dc1b3;
-   color: #ffffff;
-   text-align: left;
-   font-weight: bold;
-    display:flex;
-}
-.table2 th,
-.table2 td {
-   padding: 12px 15px;
-}
-.table tbody tr {
-   border-bottom: 1px solid #dddddd'
-}
-.table2 tbody tr:last-of-type
-{
- border-bottom: 2px solid #009879;
-}
+
 
 .sidenav {
     height: 100%;
@@ -118,7 +89,7 @@ table, th, td {
     z-index: 1;
     top: 0;
     right: 0;
-    background-color:linear-gradient(90deg,#0162c8,#ff72c0);
+    background-color: linear-gradient(90deg,#122651,rgb(8, 4, 255));
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -149,3 +120,7 @@ table, th, td {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+h1 
+{
+    padding:5px;
+}
