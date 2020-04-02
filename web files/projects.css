@@ -36,14 +36,16 @@ a {
     
 }
 
-table, th, td {
+.table1, th, td {
     font-family: "Lato", sans-serif;
+    
   
   }
  .table1 {
     
      position:absolute;
      top: 160px;
+    
      
     
  }
@@ -55,7 +57,7 @@ table, th, td {
   border-radius: 5px 5px 0 0;
   overflow: hidden;
   box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
-
+ color: white;
 }
 .table1 thead tr {
     background-color: #1DA0AD;
