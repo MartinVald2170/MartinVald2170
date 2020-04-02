@@ -13,7 +13,7 @@ body
     align-items: left;
     min-height: 100vh;
     flex-direction: column;
-    background: #A3B3EF;
+    background:black;
 }
 a {
     position: relative;
@@ -58,7 +58,7 @@ table, th, td {
 
 }
 .table1 thead tr {
-    background-color: #1DA0AD;
+    background-color: #ff72c0;
     color: #ffffff;
     text-align: left;
     font-weight: bold;
@@ -74,6 +74,9 @@ table, th, td {
     border-bottom: 1px solid #dddddd;
 
 }
+.table1 tbody tr td {
+  color:white;
+} 
 .table1 tbody tr:last-of-type
 {
   border-bottom: 2px solid #009879;
@@ -96,7 +99,7 @@ table, th, td {
 
 }
 .table2 thead tr {
-   background-color: #3dc1b3;
+   background-color: #ff72c0;
    color: #ffffff;
    text-align: left;
    font-weight: bold;
@@ -152,3 +155,6 @@ table, th, td {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+  .table2 tbody tr td {
+    color:white;
+  } 
