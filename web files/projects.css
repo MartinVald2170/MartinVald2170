@@ -13,7 +13,7 @@ body
     align-items: left;
     min-height: 100vh;
     flex-direction: column;
-    background: #A3B3EF;
+    background: black;
 }
 a {
     position: relative;
@@ -26,7 +26,7 @@ a {
     font-size: 18px;
     letter-spacing:2px;
     border-radius: 40px;
-    background: linear-gradient(90deg,#0162c8,#ff72c0);
+    background: linear-gradient(90deg,#0162c8,rgb(0, 255, 0));
     border : 3px black ;
     
 }
@@ -38,6 +38,7 @@ a {
 
 table, th, td {
     font-family: "Lato", sans-serif;
+    color: white
   
   }
  .table1 {
@@ -59,7 +60,7 @@ table, th, td {
 }
 .table1 thead tr {
     background-color: #1DA0AD;
-    color: #ffffff;
+    color: rgb(0, 255, 0);
     text-align: left;
     font-weight: bold;
     display:flex
