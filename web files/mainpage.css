@@ -148,6 +148,7 @@ margin: 5px
   from {opacity: .4}
   to {opacity: 1}
 }
+/* code for the lines to be animated  */
 ul 
 {
     position: fixed;
