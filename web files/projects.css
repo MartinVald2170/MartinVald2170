@@ -70,7 +70,7 @@ table, th, td {
     padding: 12px 15px;
     
 }
-.table tbody tr {
+.table1 tbody tr {
     border-bottom: 1px solid #dddddd;
 
 }
@@ -106,13 +106,11 @@ table, th, td {
 .table2 td {
    padding: 12px 15px;
 }
-.table tbody tr {
+.table2 tbody tr {
    border-bottom: 1px solid #dddddd'
 }
-.table2 tbody tr:last-of-type
-{
- border-bottom: 2px solid #009879;
-}
+
+
 
 .sidenav {
     height: 100%;
