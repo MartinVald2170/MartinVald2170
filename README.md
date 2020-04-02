@@ -40,11 +40,14 @@ On my contact page I have a contact form the user can fill out to send me a ques
 # Target Audience
 
 My target audience is anyone interested in seeing a new developers journey and see what I can do. As my skills get better my website gets better. The more content and projects I create, more of it ends up on my portfolio website. A representation of my skills. 
+### Colour Choices 
+In my base website I decided to use the colors blue and white based on the anime character Killua from Hunter x Hunter. The homepage backround is a picture of a sky because I wanted he colour to be natural and put the user at ease. The branches are based on characters from one piece.
 
 
-### Color Choices
-
------------------
+### Branches 
+>git checkout zoro <br>
+git checkout katerkuri <br> 
+git checkout law
 
 ## Sitemap 
 Side Nav menu connects all the pages together except the entry page
@@ -53,7 +56,39 @@ Side Nav menu connects all the pages together except the entry page
 
 #### Screenshots of Website 
 
--------
+Entry
+![entry](Resources/entry.png)
+
+Homepage
+![homepage](Resources/homepage.png)
+
+About 
+![about](Resources/about.png)
+
+Blog
+![blog](Resources/blog.png)
+
+Projects
+![projects](Resources/projects.png)
+contact
+![contact](Resources/contact.png)
+
+
+# Wireframes 
+My site is going to be very simple so I kept it simple <br>
+Entry 
+![entry wireframe](Resources/entryw.png)
+Homepage 
+![homepage wireframe](Resources/homepagew.png)
+About
+![about wireframe](Resources/aboutw.png)
+Projects 
+![projects wireframe](Resources/projectsw.png)
+Blog 
+![Blog wireframe](Resources/blogw.png)
+Contact
+![contact wireframe](Resources/contactw.png)
+
 
 
 ### Languages used (Techstack)
