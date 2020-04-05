@@ -68,6 +68,7 @@ body {
       display:flex;
       height: 300px;
       width: 600;
+      max-width: 100%;
   }
   .sidenav {
     height: 100%;
