@@ -112,7 +112,87 @@ a {
    border-bottom: 1px solid #dddddd'
 }
 
+.table3 {
+    
+  position:absolute;
+  top: 550px;
+ 
+  
+ 
+}
+.table3 {
+ border-collapse: collapse;
+margin: 25px 0;
+font-size: o.9em;
+min-width: 480px;
+border-radius: 5px 5px 0 0;
+overflow: hidden;
+box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
 
+}
+.table3 thead tr {
+ background-color: #1DA0AD;
+ color: #ffffff;
+ text-align: left;
+ font-weight: bold;
+ display:flex
+
+}
+.table3 th,
+.table3 td {
+ padding: 12px 15px;
+ 
+}
+.table3 tbody tr {
+ border-bottom: 1px solid #dddddd;
+
+}
+.table3 tbody tr:last-of-type
+{
+border-bottom: 2px solid #009879;
+}
+.table4 {
+    
+  position:absolute;
+  top: 780px;
+ 
+  
+ 
+}
+
+.table4 {
+  border-collapse: collapse;
+ margin: 25px 0;
+ font-size: o.9em;
+ min-width: 480px;
+ border-radius: 5px 5px 0 0;
+ overflow: hidden;
+ box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
+ 
+ }
+ .table4 thead tr {
+  background-color: #1DA0AD;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+  display:flex
+ 
+ }
+ .table4 th,
+ .table4 td {
+  padding: 12px 15px;
+  
+ }
+ .table4 tbody tr {
+  border-bottom: 1px solid #dddddd;
+ 
+ }
+ .table4 tbody tr:last-of-type
+ {
+ border-bottom: 2px solid #009879;
+ }
+ 
+ 
 
 .sidenav {
     height: 100%;
