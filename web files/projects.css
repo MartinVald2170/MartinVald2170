@@ -192,6 +192,86 @@ border-bottom: 2px solid #009879;
  border-bottom: 2px solid #009879;
  }
  
+ .table4 {
+    
+  position:absolute;
+  top: 780px;
+ }
+ .table5 {
+    
+  position:absolute;
+  top: 970px;
+ }
+
+.table5 {
+  border-collapse: collapse;
+ margin: 25px 0;
+ font-size: o.9em;
+ min-width: 480px;
+ border-radius: 5px 5px 0 0;
+ overflow: hidden;
+ box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
+ 
+ }
+ .table5 thead tr {
+  background-color: #1DA0AD;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+  display:flex
+ 
+ }
+ .table5 th,
+ .table5 td {
+  padding: 12px 15px;
+  
+ }
+ .table5 tbody tr {
+  border-bottom: 1px solid #dddddd;
+ 
+ }
+ .table5 tbody tr:last-of-type
+ {
+ border-bottom: 2px solid #009879;
+ }
+ 
+ .table6 {
+    
+  position:absolute;
+  top: 1160px;
+ }
+
+.table6 {
+  border-collapse: collapse;
+ margin: 25px 0;
+ font-size: o.9em;
+ min-width: 480px;
+ border-radius: 5px 5px 0 0;
+ overflow: hidden;
+ box-shadow: 0 0 20px rgba(0, 0,0, 0.15);
+ 
+ }
+ .table6 thead tr {
+  background-color: #1DA0AD;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+  display:flex
+ 
+ }
+ .table6 th,
+ .table6 td {
+  padding: 12px 15px;
+  
+ }
+ .table6 tbody tr {
+  border-bottom: 1px solid #dddddd;
+ 
+ }
+ .table6 tbody tr:last-of-type
+ {
+ border-bottom: 2px solid #009879;
+ }
  
 
 .sidenav {
